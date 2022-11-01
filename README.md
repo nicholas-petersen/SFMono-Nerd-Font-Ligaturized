@@ -10,4 +10,3 @@ Apple's SFMono font nerd-font patched and ligaturized
 On macOS: Clone the repo, highlight all the .otf files, double click and they should preview/install through font book
 
 On linux, you can copy them over to ~/.local/share/fonts
-corneliusroemer reacted with thumbs up emoji
